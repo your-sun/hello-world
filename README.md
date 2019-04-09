@@ -1,2 +1,1 @@
-# hello-world
-just test
+本文主要是用于做《统计学习方法》的笔记
